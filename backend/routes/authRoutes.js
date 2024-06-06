@@ -1,5 +1,3 @@
-// backend/routes/authRoutes.js
-
 const express = require('express');
 const { registerUser, loginUser, verifyToken } = require('../controllers/authController');
 const { authMiddleware, verifyRole } = require('../middlewares/authMiddleware');
