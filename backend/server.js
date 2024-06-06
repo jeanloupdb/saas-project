@@ -7,6 +7,7 @@ const rateLimit = require('express-rate-limit');
 const authRoutes = require('./routes/authRoutes');
 const userRoutes = require('./routes/userRoutes');
 const actionRoutes = require('./routes/actionRoutes');
+const errorHandler = require('./middlewares/errorHandler');
 
 const app = express();
 
@@ -57,6 +58,9 @@ mongoose.connect(process.env.MONGO_URI, {
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/actions', actionRoutes);
+
+// Middleware de gestion des erreurs
+app.use(errorHandler);
 
 // Lancement du serveur
 const PORT = process.env.PORT || 5000;
