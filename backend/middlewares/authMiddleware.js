@@ -2,25 +2,28 @@
 
 const jwt = require('jsonwebtoken');
 
-exports.authMiddleware = (req, res, next) => {
-  const authHeader = req.header('Authorization');
-  if (!authHeader) {
-    return res.status(401).json({ message: 'No token, authorization denied' });
-  }
+const authMiddleware = (req, res, next) => {
+  const token = req.header('Authorization').replace('Bearer ', '');
+  if (!token) return res.status(401).json({ message: 'Accès refusé. Aucun token fourni.' });
 
-  const token = authHeader.replace('Bearer ', '');
   try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = decoded;
+    const verified = jwt.verify(token, process.env.JWT_SECRET);
+    req.user = verified;
     next();
   } catch (error) {
-    res.status(401).json({ message: 'Token is not valid' });
+    res.status(400).json({ message: 'Token invalide.' });
   }
 };
 
-exports.verifyRole = (roles) => (req, res, next) => {
-  if (!roles.includes(req.user.role)) {
-    return res.status(403).json({ message: 'Accès refusé.' });
+const verifyRole = (roles) => (req, res, next) => {
+  if (roles.includes(req.user.role)) {
+    return next();
   }
-  next();
+  res.status(403).send('Accès refusé.');
+};
+
+module.exports = {
+  authMiddleware,
+  verifyRole,
+  verifyToken: authMiddleware
 };

@@ -1,0 +1,131 @@
+2024-06-07 16:06:26 error: Échec de l'authentification du token
+2024-06-07 16:07:19 error: Échec de l'authentification du token
+2024-06-07 16:16:55 error: Erreur lors de la vérification de l'action: Cast to ObjectId failed for value "<6663152000b90a6fa743e7c5>" (type string) at path "_id" for model "Action"
+2024-06-07 16:18:55 error: Portefeuille non trouvé
+2024-06-07 16:22:39 error: Erreur lors de la vérification de l'action: Class constructor ObjectId cannot be invoked without 'new'
+2024-06-07 16:24:03 error: Erreur lors de la vérification de l'action: Class constructor ObjectId cannot be invoked without 'new'
+2024-06-07 19:09:00 error: authMiddleware: Le token n'est pas valide: jwt malformed
+2024-06-07 19:09:00 error: authMiddleware: Le token n'est pas valide: jwt malformed
+2024-06-07 20:10:31 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:10:31 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:15:42 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:10 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-07 20:30:11 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "undefined" (type string) at path "companyID" for model "Action"
+2024-06-14 09:44:03 error: MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2024-06-14 12:39:40 error: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-14 17:22:39 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:39 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:44 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:44 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:46 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:46 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:46 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:50 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:22:50 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:25:13 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-14 17:25:13 error: authMiddleware: Pas de token, autorisation refusée
+2024-06-22 18:41:19 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:50 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:51 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:51 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:51 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:51 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:52 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:52 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:53 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:42:53 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:44:44 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:51:31 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-22 18:51:34 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-23 00:43:30 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-06-23 01:02:38 error: Error: Cannot read properties of undefined (reading 'replace')
