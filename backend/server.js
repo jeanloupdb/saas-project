@@ -4,10 +4,15 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
+const logger = require('./logger');
+
+logger.info('Avant importation des routes');
 const authRoutes = require('./routes/authRoutes');
 const userRoutes = require('./routes/userRoutes');
 const actionRoutes = require('./routes/actionRoutes');
-const errorHandler = require('./middlewares/errorHandler');
+const tokenWalletRoutes = require('./routes/tokenWalletRoutes');
+const companyRoutes = require('./routes/companyRoutes');
+logger.info('Après importation des routes');
 
 const app = express();
 
@@ -37,33 +42,40 @@ app.use(helmet.contentSecurityPolicy({
   }
 }));
 
-// Rate Limiting
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100, // limit each IP to 100 requests per windowMs
-  message: 'Too many requests from this IP, please try again later.'
-});
-
-app.use(limiter);
-
 // Connexion à MongoDB
 mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
-  .then(() => console.log('MongoDB Connected'))
-  .catch(err => console.log(err));
+  .then(() => logger.info('MongoDB Connected'))
+  .catch(err => logger.error(`MongoDB connection error: ${err.message}`));
 
 // Routes
+logger.info('Définition des routes');
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/actions', actionRoutes);
+app.use('/api/token-wallets', tokenWalletRoutes);
+app.use('/api/companies', companyRoutes);
 
-// Middleware de gestion des erreurs
+// Rate Limiting
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  max: 100,
+  message: 'Too many requests from this IP, please try again later.'
+});
+
+app.use(limiter);
+
+function errorHandler(err, req, res, next) {
+  logger.error(`Error: ${err.message}`);
+  res.status(500).json({ message: 'Server error', error: err.message });
+}
+
 app.use(errorHandler);
 
 // Lancement du serveur
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  logger.info(`Server running on port ${PORT}`);
 });
