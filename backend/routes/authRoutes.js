@@ -1,11 +1,13 @@
 const express = require('express');
-const { registerUser, loginUser, verifyToken } = require('../controllers/authController');
-const { authMiddleware, verifyRole } = require('../middlewares/authMiddleware');
+const { registerUser, loginUser, refreshToken, logoutUser } = require('../controllers/authController');
+const { verifyToken, verifyRole } = require('../middlewares/authMiddleware');
 
 const router = express.Router();
 
 router.post('/register', registerUser);
 router.post('/login', loginUser);
+router.post('/refresh-token', refreshToken); // Route pour renouveler le token
+router.post('/logout', logoutUser); // Route pour déconnecter l'utilisateur
 
 // Exemple de route protégée
 router.get('/protected', verifyToken, (req, res) => {

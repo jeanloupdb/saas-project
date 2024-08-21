@@ -1,41 +1,71 @@
-// backend/controllers/actionController.js
-
-// Assurez-vous qu'il n'y a qu'une seule déclaration de `Action`
 const Action = require('../models/Action');
 const TokenWallet = require('../models/TokenWallet');
 const TokenTransaction = require('../models/TokenTransaction');
+const UserAction = require('../models/UserAction');
+const Quiz = require('../models/Quiz'); // Assurez-vous d'importer le modèle Quiz
 const logger = require('../logger');
 
+const mongoose = require('mongoose');
 
-exports.createAction = async (req, res) => {
+// Créer une action et un quiz associé
+exports.createActionWithQuiz = async (req, res) => {
   try {
-    const { type, tokens_reward, companyID, action_details } = req.body;
-    const action = new Action({ type, tokens_reward, companyID, action_details });
+    const actionData = req.body;
+
+    // Log initial des données reçues
+
+    if (!actionData) {
+      throw new Error("Aucune donnée reçue dans le corps de la requête.");
+    }
+
+    let companyIDObject;
+    // Vérifiez si companyID est une chaîne hexadécimale de 24 caractères
+    if (mongoose.Types.ObjectId.isValid(actionData.companyID)) {
+      companyIDObject = new mongoose.Types.ObjectId(actionData.companyID);
+    } else {
+      throw new Error("Format de companyID invalide.");
+    }
+
+    // Préparation de l'objet actionData_
+    const actionData_ = {
+      ...actionData,
+      companyID: companyIDObject
+    };
+
+    // Ajouter les champs quizQuestions et quizDescription si l'action est un quiz
+    if (actionData_.type === 'quiz') {
+      actionData_.quizQuestions = actionData.quizQuestions || [];
+      actionData_.quizDescription = actionData.quizDescription || '';
+    }
+
+
+    // Création de l'action
+    const action = new Action(actionData_);
+
     await action.save();
-    logger.info('Action créée avec succès');
-    res.status(201).json({ message: 'Action créée avec succès.', action });
+
+
+    res.status(201).json({ message: 'Action et quiz créés avec succès.', action });
   } catch (error) {
-    logger.error(`Erreur lors de la création de l'action: ${error.message}`);
+    logger.error('Erreur lors de la création de l\'action:', error);
     res.status(400).json({ message: 'Erreur lors de la création de l\'action.', error });
   }
 };
 
+// Fonction existante pour vérifier une action
 exports.verifyAction = async (req, res) => {
   try {
     const { userID, actionID } = req.body;
     const action = await Action.findById(actionID);
     if (!action) {
-      logger.error('Action non trouvée');
       return res.status(404).json({ message: 'Action non trouvée.' });
     }
 
-    // Vérification de l'action ici (à personnaliser selon le type d'action)
     const verificationSuccess = true; // Supposons que la vérification soit réussie
 
     if (verificationSuccess) {
       const wallet = await TokenWallet.findOne({ userID, companyID: action.companyID });
       if (!wallet) {
-        logger.error('Portefeuille non trouvé');
         return res.status(404).json({ message: 'Portefeuille non trouvé.' });
       }
 
@@ -51,42 +81,38 @@ exports.verifyAction = async (req, res) => {
 
       await transaction.save();
 
-      logger.info('Action vérifiée et jetons crédités');
       res.status(200).json({ message: 'Action vérifiée et jetons crédités.', balance: wallet.balance });
     } else {
-      logger.error('Vérification de l\'action échouée');
       res.status(400).json({ message: 'Vérification de l\'action échouée.' });
     }
   } catch (error) {
-    logger.error(`Erreur lors de la vérification de l'action: ${error.message}`);
     res.status(400).json({ message: 'Erreur lors de la vérification de l\'action.', error });
   }
 };
 
-
 exports.getActionsByCompany = async (req, res) => {
-  logger.info('Début de getActionsByCompany');
   try {
     const { companyId } = req.params;
-    logger.info(`req.params: ${req}`);
-    logger.info(`Récupération des actions pour la société ID: ${companyId}`);
-    
+
+    // Vérification que l'ID de l'entreprise est un ObjectId valide
+    if (!mongoose.Types.ObjectId.isValid(companyId)) {
+      return res.status(400).json({ message: 'Invalid company ID format.' });
+    }
+
     const actions = await Action.find({ companyID: companyId });
-    
-    if (!actions) {
-      logger.error('Aucune action trouvée pour cette entreprise');
+
+    if (!actions || actions.length === 0) {
       return res.status(404).json({ message: 'Aucune action trouvée pour cette entreprise.' });
     }
-    
-    logger.info(`Nombre d'actions trouvées: ${actions.length}`);
+
     res.status(200).json(actions);
   } catch (error) {
-    logger.error(`Erreur lors de la récupération des actions: ${error.message}`);
-    res.status(400).json({ message: 'Erreur lors de la récupération des actions.', error });
+    console.error('Erreur lors de la récupération des actions:', error);
+    res.status(500).json({ message: 'Erreur lors de la récupération des actions.', error });
   }
 };
 
-
+// Fonction existante pour effectuer une action
 exports.performAction = async (req, res) => {
   const { actionId } = req.params;
   const userId = req.user.id;
@@ -96,6 +122,17 @@ exports.performAction = async (req, res) => {
     if (!action) {
       return res.status(404).json({ message: 'Action non trouvée' });
     }
+
+
+    // Vérifier si l'utilisateur a déjà réalisé cette action
+    const existingUserAction = await UserAction.findOne({ userId, actionId });
+    if (existingUserAction) {
+      return res.status(400).json({ message: 'Action déjà réalisée.' });
+    }
+
+    // Enregistrer l'action réalisée
+    const userAction = new UserAction({ userId, actionId });
+    await userAction.save();
 
     const companyId = action.companyID;
 
@@ -126,3 +163,33 @@ exports.performAction = async (req, res) => {
     res.status(400).json({ message: 'Erreur lors de l\'exécution de l\'action', error });
   }
 };
+
+
+exports.deleteAction = async (req, res) => {
+  const { actionId } = req.params;
+
+  try {
+    await Action.findByIdAndDelete(actionId);
+    res.status(200).json({ message: 'Action supprimée avec succès' });
+  } catch (error) {
+    res.status(400).json({ message: 'Erreur lors de la suppression de l\'action', error });
+  }
+};
+
+exports.updateAction = async (req, res) => {
+  const { actionId } = req.params;
+  const updatedAction = req.body; // Pas besoin de destructurer ici, on veut directement tout l'objet
+
+
+  try {
+    const updatedAction_ = await Action.findByIdAndUpdate(actionId, updatedAction, { new: true });
+    if (!updatedAction_) {
+      return res.status(404).json({ message: 'Action non trouvée.' });
+    }
+    res.status(200).json(updatedAction_);
+  } catch (error) {
+    logger.error('Erreur lors de la mise à jour de l\'action:', error);
+    res.status(400).json({ message: 'Erreur lors de la mise à jour de l\'action', error });
+  }
+};
+

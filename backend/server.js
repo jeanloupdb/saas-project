@@ -6,13 +6,18 @@ const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 const logger = require('./logger');
 
-logger.info('Avant importation des routes');
 const authRoutes = require('./routes/authRoutes');
 const userRoutes = require('./routes/userRoutes');
 const actionRoutes = require('./routes/actionRoutes');
 const tokenWalletRoutes = require('./routes/tokenWalletRoutes');
 const companyRoutes = require('./routes/companyRoutes');
-logger.info('Après importation des routes');
+const quizRoutes = require('./routes/quizRoutes');
+const gameRoutes = require('./routes/gameRoutes');
+const rewardRoutes = require('./routes/rewardRoutes');
+const dataRoutes = require('./routes/dataRoutes'); // Utilisez le chemin approprié
+const statsRoutes = require('./routes/statsRoutes');
+
+
 
 const app = express();
 
@@ -57,6 +62,14 @@ app.use('/api/users', userRoutes);
 app.use('/api/actions', actionRoutes);
 app.use('/api/token-wallets', tokenWalletRoutes);
 app.use('/api/companies', companyRoutes);
+app.use('/api/quiz', quizRoutes);
+app.use('/api/games', gameRoutes);
+app.use('/api/rewards', rewardRoutes);
+app.use('/api/data', dataRoutes); // Utilisez le chemin approprié
+app.use('/api/stats', statsRoutes);
+
+
+
 
 // Rate Limiting
 const limiter = rateLimit({
