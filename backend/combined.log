@@ -36470,3 +36470,10 @@
 2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
 2024-08-21 11:30:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
 2024-08-21 11:30:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 12:12:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 12:12:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 12:12:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 12:12:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 12:12:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 12:13:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: false, RewardID: null
+2024-08-21 12:13:21 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: false, RewardID: null
