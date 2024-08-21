@@ -18,7 +18,6 @@ router.get('/', authMiddleware, async (req, res) => {
 // Route pour obtenir une entreprise spécifique par ID
 router.get('/:companyId', authMiddleware, async (req, res) => {
   const { companyId } = req.params;
-  console.log('companyId:', companyId);
   try {
     const company = await User.findById(companyId);
     if (!company || company.role !== 'entreprise') {
@@ -37,21 +36,13 @@ router.get('/with-token-balances/:clientId', authMiddleware, async (req, res) =>
 
   try {
     const companies = await User.find({ role: 'entreprise' });
-    console.log('Companies found:', companies.length);
 
     const clientObjectId = new mongoose.Types.ObjectId(clientId);
 
     const wallets = await TokenWallet.find();
-    console.log('Number of wallets found:', wallets.length);
 
     const companiesWithBalances = await Promise.all(companies.map(async (company) => {
-      console.log(`Fetching wallet for client ${clientObjectId} and company ${company._id}`);
       const wallet = await TokenWallet.findOne({ userID: clientObjectId, companyID: company._id });
-      if (!wallet) {
-        console.log(`No wallet found for client ${clientObjectId} and company ${company._id}`);
-      } else {
-        console.log(`Wallet found for client ${clientObjectId} and company ${company._id}: ${wallet.balance} tokens`);
-      }
       return {
         ...company.toObject(),
         tokenBalance: wallet ? wallet.balance : 0

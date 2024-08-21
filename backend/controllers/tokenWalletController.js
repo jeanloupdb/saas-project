@@ -39,7 +39,6 @@ exports.getTokenWalletByClientAndCompany = async (req, res) => {
     const { clientId, companyId } = req.params;
     let tokenWallet = await TokenWallet.findOne({ userID: clientId, companyID: companyId });
 
-    console.log('Token wallet for client and company:', tokenWallet);
 
     // Si le wallet n'existe pas, en créer un avec un solde de 0
     if (!tokenWallet) {
@@ -50,7 +49,6 @@ exports.getTokenWalletByClientAndCompany = async (req, res) => {
       });
 
       await tokenWallet.save();
-      console.log('New token wallet created:', tokenWallet);
     }
 
     res.status(200).json(tokenWallet);

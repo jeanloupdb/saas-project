@@ -129,3 +129,635 @@
 2024-06-22 18:51:34 error: Error: Cannot read properties of undefined (reading 'replace')
 2024-06-23 00:43:30 error: Error: Cannot read properties of undefined (reading 'replace')
 2024-06-23 01:02:38 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-07-22 11:17:37 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-07-22 11:20:32 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-07-22 11:20:34 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-07-22 11:20:34 error: Error: Cannot read properties of undefined (reading 'replace')
+2024-07-22 11:26:49 error: Invalid token: jwt malformed
+2024-07-22 11:26:49 error: Invalid token: jwt malformed
+2024-07-22 11:28:20 error: Invalid token: jwt malformed
+2024-07-22 11:28:20 error: Invalid token: jwt malformed
+2024-07-22 11:29:12 error: Invalid token: jwt malformed
+2024-07-22 11:29:12 error: Invalid token: jwt malformed
+2024-07-22 11:29:19 error: Invalid token: jwt malformed
+2024-07-22 11:29:19 error: Invalid token: jwt malformed
+2024-07-22 11:30:58 error: Invalid token: jwt malformed
+2024-07-22 11:30:58 error: Invalid token: jwt malformed
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:54 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:38:56 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:03 error: Invalid token: jwt expired
+2024-07-22 11:39:05 error: Invalid token: jwt expired
+2024-07-22 11:39:05 error: Invalid token: jwt expired
+2024-07-22 11:39:05 error: Invalid token: jwt expired
+2024-07-22 11:39:07 error: Invalid token: jwt expired
+2024-07-22 11:39:07 error: Invalid token: jwt expired
+2024-07-22 11:39:07 error: Invalid token: jwt expired
+2024-07-22 15:02:35 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:10:00 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:10:00 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:10:03 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:10:04 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:10:04 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:25:42 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:29:36 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:31:14 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:32:13 error: Erreur lors de la création de l'action: Cannot read properties of undefined (reading 'description')
+2024-07-22 16:50:32 error: Erreur lors de la récupération des actions: Cast to ObjectId failed for value "null" (type string) at path "companyID" for model "Action"
+2024-07-22 17:17:20 error: Action déjà réalisée
+2024-07-22 17:20:38 error: Action déjà réalisée
+2024-08-08 16:41:35 error: Erreur lors de la création de l'action: Action validation failed: quizQuestions.3.question: Path `question` is required.
+2024-08-08 16:42:47 error: Erreur lors de la création de l'action: Action validation failed: quizQuestions.2.question: Path `question` is required.
+2024-08-08 18:36:04 error: Wallet not found
+2024-08-08 22:25:05 error: Wallet not found
+2024-08-08 22:26:29 error: Wallet not found
+2024-08-08 22:28:32 error: Wallet not found
+2024-08-08 23:54:37 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required.
+2024-08-08 23:55:39 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required.
+2024-08-08 23:55:51 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required.
+2024-08-09 00:03:54 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required.
+2024-08-09 00:13:14 error: Error submitting quiz: ValidationError: responses.2.response: Path `response` is required., responses.3.response: Path `response` is required.
+2024-08-09 15:49:01 error: Error playing game: CastError: Cast to ObjectId failed for value "{
+  gameID: '66b5f715f3039a7dfa38cf57',
+  userID: '667fd9dca3abeb419c2a4dbf'
+}" (type Object) at path "_id" for model "Game"
+2024-08-09 15:52:52 error: Error playing game: CastError: Cast to ObjectId failed for value "{
+  gameID: '66b5f715f3039a7dfa38cf57',
+  userID: '667fd9dca3abeb419c2a4dbf'
+}" (type Object) at path "_id" for model "Game"
+2024-08-09 15:53:20 error: Error playing game: CastError: Cast to ObjectId failed for value "{
+  gameID: '66b5f715f3039a7dfa38cf57',
+  userID: '667fd9dca3abeb419c2a4dbf'
+}" (type Object) at path "_id" for model "Game"
+2024-08-09 19:13:13 error: Error playing game: CastError: Cast to ObjectId failed for value "{
+  gameID: '66b5f715f3039a7dfa38cf57',
+  userID: '667fd90ba3abeb419c2a4d80'
+}" (type Object) at path "_id" for model "Game"
+2024-08-09 19:15:28 error: Error playing game: CastError: Cast to ObjectId failed for value "{
+  gameID: '66b5f715f3039a7dfa38cf57',
+  userID: '667fd90ba3abeb419c2a4d80'
+}" (type Object) at path "_id" for model "Game"
+2024-08-09 19:17:06 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:19:08 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:20:54 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:23:27 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:24:09 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:25:01 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:25:30 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:27:07 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:31:08 error: Error playing game: CastError: Cast to ObjectId failed for value "{}" (type Object) at path "userID" for model "TokenWallet"
+2024-08-09 19:34:02 error: Error playing game: TypeError: Cannot read properties of undefined (reading 'companyID')
+2024-08-09 19:34:22 error: Error playing game: TypeError: Cannot read properties of undefined (reading 'companyID')
+2024-08-09 19:46:22 error: Error playing game: TypeError: Cannot read properties of undefined (reading 'companyID')
+2024-08-09 19:47:35 error: Error playing game: TypeError: Cannot read properties of undefined (reading 'companyID')
+2024-08-09 19:48:25 error: Error playing game: TypeError: Cannot read properties of null (reading '_id')
+2024-08-09 19:50:45 error: Error playing game: TypeError: Cannot read properties of null (reading '_id')
+2024-08-11 21:48:07 error: Erreur lors de la création du lot: Reward validation failed: remainingQuantity: Path `remainingQuantity` is required., companyID: Path `companyID` is required.
+2024-08-11 22:00:53 error: Erreur lors de la création du lot: Reward validation failed: remainingQuantity: Path `remainingQuantity` is required., companyID: Path `companyID` is required.
+2024-08-11 22:05:40 error: Erreur lors de la création du lot: Reward validation failed: remainingQuantity: Path `remainingQuantity` is required.
+2024-08-11 22:31:51 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-11 22:36:02 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-11 22:38:25 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-12 19:39:58 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-12 19:43:29 error: Erreur lors de la création du lot: ValidationError: description: Path `description` is required.
+2024-08-12 19:44:32 error: Erreur lors de la création du lot: ValidationError: name: Path `name` is required., description: Path `description` is required.
+2024-08-12 19:47:54 error: Erreur lors de la création du lot: ValidationError: name: Path `name` is required., description: Path `description` is required.
+2024-08-12 21:35:20 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required., responses.2.response: Path `response` is required., responses.3.response: Path `response` is required.
+2024-08-14 11:57:21 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-14 11:59:36 error: Erreur lors de la création du lot: ValidationError: companyID: Cast to ObjectId failed for value "{
+  id: '669e3e206d8987c105b8bca2',
+  username: 'Amora',
+  role: 'entreprise',
+  iat: 1723628302,
+  exp: 1723631902
+}" (type Object) at path "companyID" because of "BSONError", description: Path `description` is required., rarity: Path `rarity` is required., initialQuantity: Path `initialQuantity` is required., name: Path `name` is required., remainingQuantity: Path `remainingQuantity` is required.
+2024-08-14 12:00:28 error: Erreur lors de la création du lot: ValidationError: companyID: Cast to ObjectId failed for value "{
+  id: '669e3e206d8987c105b8bca2',
+  username: 'Amora',
+  role: 'entreprise',
+  iat: 1723628302,
+  exp: 1723631902
+}" (type Object) at path "companyID" because of "BSONError"
+2024-08-14 12:01:05 error: Erreur lors de la création du lot: ValidationError: companyID: Cast to ObjectId failed for value "{
+  id: '669e3e206d8987c105b8bca2',
+  username: 'Amora',
+  role: 'entreprise',
+  iat: 1723628302,
+  exp: 1723631902
+}" (type Object) at path "companyID" because of "BSONError"
+2024-08-14 12:02:06 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-14 12:02:42 error: Erreur lors de la création du lot: ValidationError: companyID: Path `companyID` is required.
+2024-08-14 16:15:19 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:19:01 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:19:53 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:21:47 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:22:32 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:30:29 error: Erreur lors de la création de l'action: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-14 16:34:32 error: Erreur lors de la création de l'action: Assignment to constant variable.
+2024-08-14 16:35:23 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:35:56 error: Erreur lors de la création de l'action: Action validation failed: companyID: Path `companyID` is required.
+2024-08-14 16:42:25 error: Erreur lors de la création de l'action: type is not defined
+2024-08-14 16:45:16 error: Erreur lors de la création de l'action: type is not defined
+2024-08-14 16:47:04 error: Erreur lors de la création de l'action: type is not defined
+2024-08-14 16:47:43 error: Erreur lors de la création de l'action: type is not defined
+2024-08-14 17:03:27 error: Erreur lors de la création de l'action: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-14 18:17:49 error: Erreur lors de la création de l'action: stringify is not defined
+2024-08-14 18:20:31 error: Erreur lors de la création de l'action: stringify is not defined
+2024-08-15 15:03:31 error: Error submitting quiz: ValidationError: responses.1.response: Path `response` is required.
+2024-08-15 16:17:13 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:17:13 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:17:13 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:17:13 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:18:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:18:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:18:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 16:18:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 17:20:00 error: Erreur de vérification du token: jwt expired
+2024-08-15 17:20:00 error: Erreur de vérification du token: jwt expired
+2024-08-15 17:20:00 error: Erreur de vérification du token: jwt expired
+2024-08-15 17:20:00 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:04 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:04 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:04 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:04 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:10 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:10 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:10 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:22:10 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:33:18 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:33:18 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:33:18 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:33:18 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:38:22 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:38:22 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:38:22 error: Erreur de vérification du token: jwt expired
+2024-08-15 18:38:22 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:33 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:37 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:37 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:37 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:41 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:41 error: Erreur de vérification du token: jwt expired
+2024-08-15 21:54:41 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:15 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:15 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:15 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:15 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:19 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:19 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:19 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:19 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:35 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:35 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:35 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:11:35 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:54 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:54 error: Erreur de vérification du token: jwt expired
+2024-08-15 22:26:54 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:10:28 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:10:28 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:10:28 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:10:28 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:27:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:27:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:27:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:27:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:43:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:43:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:43:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 11:43:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 13:43:15 error: Erreur de vérification du token: jwt expired
+2024-08-16 13:43:15 error: Erreur de vérification du token: jwt expired
+2024-08-16 13:43:15 error: Erreur de vérification du token: jwt expired
+2024-08-16 13:43:15 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:26:18 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:26:18 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:29:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:29:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:29:42 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:29:42 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:45:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 14:45:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:00:58 error: Error: Assignment to constant variable.
+2024-08-16 15:01:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:01:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:02:23 error: Error: randomAngle is not defined
+2024-08-16 15:17:50 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:17:50 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:17 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:19 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:26 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:18:48 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:19:39 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:19:47 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:20:41 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:22:08 error: Erreur de vérification du token: jwt expired
+2024-08-16 15:23:47 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:53:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:53:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:53:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:53:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:14 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:14 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:14 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:14 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:20 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:21 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:21 error: Erreur de vérification du token: jwt expired
+2024-08-16 17:54:21 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:10:29 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:10:29 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:10:29 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:10:29 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:26:37 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:26:37 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:26:37 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:26:37 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:44:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:44:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:44:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:44:01 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:49:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:49:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:49:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:49:45 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:50:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:50:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:50:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:50:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:52:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:52:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:52:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 18:52:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 19:08:11 error: Erreur de vérification du token: jwt expired
+2024-08-16 19:08:11 error: Erreur de vérification du token: jwt expired
+2024-08-16 19:08:11 error: Erreur de vérification du token: jwt expired
+2024-08-16 19:08:11 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:20:05 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:20:05 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:20:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:20:06 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:22:23 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:22:23 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:22:24 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:22:24 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:25 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:25 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:26 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:26 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:58 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:24:58 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:00 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:44 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:57 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:25:57 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:27:27 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:27:27 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:56:30 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:56:30 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:56:32 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:56:32 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:59:55 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:59:55 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:59:57 error: Erreur de vérification du token: jwt expired
+2024-08-16 22:59:57 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:02:05 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:02:05 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:02:07 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:02:07 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:25:54 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:23 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:24 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:24 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:25 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:25 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:26:56 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:27:01 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:27:02 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:27:02 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:27:03 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:27:03 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:27 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:27 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:33 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:33 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:36 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:36 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:54 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:29:54 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:30:43 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:30:56 error: Erreur de vérification du token: jwt expired
+2024-08-16 23:30:56 error: Erreur de vérification du token: jwt expired
+2024-08-17 14:34:12 error: Erreur de vérification du token: jwt expired
+2024-08-17 14:36:33 error: Erreur de vérification du token: jwt expired
+2024-08-17 14:37:09 error: Erreur de vérification du token: jwt expired
+2024-08-17 14:37:09 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:24:14 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:24:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:24:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:24:28 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:24:28 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:25:55 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:26:46 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:26:54 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:26:54 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:44:22 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:44:22 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:45:09 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:45:09 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:46:22 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:46:22 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:46:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 15:46:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:16:25 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:17:00 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:19:00 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:19:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:19:36 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:20:15 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:20:38 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:23:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:23:31 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:25:15 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:25:15 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:25:33 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:25:45 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:25:45 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:28:18 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:28:18 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:44:23 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:44:23 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:46:56 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:47:21 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:48:18 error: Erreur de vérification du token: jwt expired
+2024-08-17 16:48:18 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:23:13 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:23:13 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:23:16 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:23:16 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:36:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:36:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:36:19 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:41:20 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:41:20 error: Erreur de vérification du token: jwt expired
+2024-08-17 18:41:20 error: Erreur de vérification du token: jwt expired
+2024-08-17 19:12:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 19:12:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 19:12:26 error: Erreur de vérification du token: jwt expired
+2024-08-17 19:12:26 error: Erreur de vérification du token: jwt expired
+2024-08-18 14:58:01 error: Erreur de vérification du token: jwt expired
+2024-08-18 14:58:01 error: Erreur de vérification du token: jwt expired
+2024-08-18 14:58:03 error: Erreur de vérification du token: jwt expired
+2024-08-18 14:58:03 error: Erreur de vérification du token: jwt expired
+2024-08-18 15:09:40 error: Erreur de vérification du token: jwt expired
+2024-08-18 15:09:40 error: Erreur de vérification du token: jwt expired
+2024-08-18 15:54:06 error: Erreur de vérification du token: jwt expired
+2024-08-18 15:54:06 error: Erreur de vérification du token: jwt expired
+2024-08-18 15:54:23 error: Error playing game: CastError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "Game"
+2024-08-18 15:55:39 error: Error playing game: CastError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "Game"
+2024-08-18 15:57:19 error: Error playing game: CastError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "Game"
+2024-08-18 15:58:41 error: Error playing game: CastError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "Game"
+2024-08-18 15:59:48 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Game"
+2024-08-18 16:04:22 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:05:14 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:06:22 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:07:42 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:07:58 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:08:37 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:09:41 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:09:41 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:09:42 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:09:42 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:10:01 error: Error playing game: CastError: Cast to ObjectId failed for value "1" (type number) at path "companyID" for model "TokenWallet"
+2024-08-18 16:25:04 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:07 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:07 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:08 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:08 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:09 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:23 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:23 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:25 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:25:25 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:31:52 error: Error playing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-18 16:33:46 error: Error playing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-18 16:36:21 error: Error playing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-18 16:38:28 error: Error playing game: ReferenceError: res is not defined
+2024-08-18 16:53:38 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:53:50 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:53:50 error: Erreur de vérification du token: jwt expired
+2024-08-18 16:54:27 error: Error playing game: TypeError: Cannot read properties of null (reading '_id')
+2024-08-18 16:56:34 error: Error playing game: TypeError: Cannot read properties of null (reading '_id')
+2024-08-18 17:01:26 error: Error playing game: TypeError: Cannot read properties of null (reading '_id')
+2024-08-18 17:13:13 error: Erreur de vérification du token: jwt expired
+2024-08-18 17:13:13 error: Erreur de vérification du token: jwt expired
+2024-08-18 17:13:19 error: Erreur de vérification du token: jwt expired
+2024-08-18 17:13:19 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:32:24 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:32:24 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:32:38 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:32:53 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:33:37 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:34:23 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:36:35 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:38:13 error: Erreur de vérification du token: jwt expired
+2024-08-19 11:38:13 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:00:28 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:00:28 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:07:41 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:07:45 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:07:45 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:48:04 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:48:36 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:49:02 error: Erreur de vérification du token: jwt expired
+2024-08-19 12:49:02 error: Erreur de vérification du token: jwt expired
+2024-08-19 13:21:40 error: Erreur de vérification du token: jwt expired
+2024-08-19 13:21:40 error: Erreur de vérification du token: jwt expired
+2024-08-19 13:22:05 error: Erreur de vérification du token: jwt expired
+2024-08-19 13:22:05 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:21 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:21 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:26 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:01:31 error: Erreur de vérification du token: jwt expired
+2024-08-19 15:24:57 error: Error playing game: ValidationError: description: Path `description` is required., rarity: Path `rarity` is required.
+2024-08-19 15:25:25 error: Error playing game: ValidationError: description: Path `description` is required., rarity: Path `rarity` is required.
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 16:40:16 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:18:59 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:18:59 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:18:59 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:18:59 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:40:04 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:40:04 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:40:04 error: Erreur de vérification du token: jwt expired
+2024-08-19 18:40:04 error: Erreur de vérification du token: jwt expired
+2024-08-19 19:05:22 error: Erreur de vérification du token: jwt expired
+2024-08-19 19:05:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 19:05:29 error: Erreur de vérification du token: jwt expired
+2024-08-19 19:05:30 error: Erreur de vérification du token: jwt expired
+2024-08-20 14:00:38 error: Erreur lors de la récupération des lots gagnés: Cannot read properties of null (reading 'name')
+2024-08-20 14:00:38 error: Erreur lors de la récupération des lots gagnés: Cannot read properties of null (reading 'name')
+2024-08-20 14:15:15 error: Erreur lors de la récupération des lots gagnés: Cast to ObjectId failed for value "null" (type string) at path "userID" for model "UserReward"
+2024-08-20 14:15:15 error: Erreur lors de la récupération des lots gagnés: Cast to ObjectId failed for value "null" (type string) at path "userID" for model "UserReward"
+2024-08-20 14:15:23 error: Erreur lors de la récupération des lots gagnés: Cast to ObjectId failed for value "null" (type string) at path "userID" for model "UserReward"
+2024-08-20 14:15:23 error: Erreur lors de la récupération des lots gagnés: Cast to ObjectId failed for value "null" (type string) at path "userID" for model "UserReward"
+2024-08-20 15:10:56 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:10:56 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:10:56 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:10:56 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:29:46 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:29:46 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:30:13 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:30:13 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:47:41 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:48:41 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:48:41 error: Erreur de vérification du token: jwt expired
+2024-08-20 15:49:02 error: Error processing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-20 15:49:28 error: Error processing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-20 15:50:53 error: Error processing game: ReferenceError: GameHistory is not defined
+2024-08-20 15:52:13 error: Error processing game: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2024-08-20 15:53:02 error: Error processing game: ReferenceError: game is not defined
+2024-08-20 15:54:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:05:07 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:07 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:14 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:14 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:05:36 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:14:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:14:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:16:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:17:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:18:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:20:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:21:14 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:21:14 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:21:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: Cannot access 'gameID' before initialization
+2024-08-20 16:22:44 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:23:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:27:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:27:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:28:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:30:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:30:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:32:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:33:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:33:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error processing game: ReferenceError: game is not defined
+2024-08-20 16:36:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 16:36:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:43 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:43 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:43 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 17:21:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-20 18:12:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:04:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:04:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 11:30:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
