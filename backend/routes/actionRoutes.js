@@ -12,8 +12,6 @@ const logger = require('../logger');
 // Route pour récupérer les actions d'une entreprise
 router.get('/company/:companyId', authMiddleware, actionController.getActionsByCompany);
 
-
-
 // Route pour récupérer une action par ID
 router.get('/:id', async (req, res) => {
     const actionId = req.params.id;
@@ -34,9 +32,8 @@ router.get('/:id', async (req, res) => {
     }
 });
 
-
 // Route pour créer une action
-router.post('/create', authMiddleware, actionController.createActionWithQuiz);
+router.post('/create', authMiddleware, actionController.createAction);
 
 // Route pour effectuer une action
 router.post('/:actionId/perform', authMiddleware, actionController.performAction);

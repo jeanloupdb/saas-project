@@ -74,7 +74,6 @@ router.get('/:rewardID', verifyToken, async (req, res) => {
   try {
     const { rewardID } = req.params;
     const reward = await Reward.findById(rewardID);
-    logger.info(reward);
     if (!reward) {
       return res.status(404).json({ message: 'Lot non trouvé.' });
     }
@@ -146,11 +145,13 @@ router.get('/user/:userId/company/:companyID', verifyToken, async (req, res) => 
 
     // Map les résultats pour renvoyer uniquement les informations nécessaires
     const rewardsData = validUserRewards.map(userReward => ({
+      _id: userReward._id,
       name: userReward.rewardID.name,
       description: userReward.rewardID.description,
-      claimed: userReward.claimed, // Si le modèle `UserReward` contient un champ `claimed`
+      isClaimed: userReward.isClaimed, // Si le modèle `UserReward` contient un champ `claimed`
       distributionMethod: userReward.rewardID.distributionMethod,
       distributionDescription: userReward.rewardID.distributionDescription,
+      pickupCode: userReward.pickupCode, // Si le modèle `UserReward` contient un champ `pickupCode`
       dateWon: userReward.date // La date à laquelle le lot a été gagné
     }));
 
@@ -163,5 +164,70 @@ router.get('/user/:userId/company/:companyID', verifyToken, async (req, res) => 
 
 
 
+// Route pour mettre à jour les informations de contact pour un lot gagné
+router.put('/claim/:userRewardID', verifyToken, async (req, res) => {
+  try {
+    const { userRewardID } = req.params;
+    const { address, phoneNumber } = req.body;
+
+    const userReward = await UserReward.findById(userRewardID);
+    logger.info(userReward);
+    if (!userReward) {
+      return res.status(404).json({ message: 'Récompense non trouvée pour cet utilisateur.' });
+    }
+
+    userReward.address = address;
+    userReward.phoneNumber = phoneNumber;
+    userReward.isClaimed = true; // Marquer comme réclamé si nécessaire
+
+    await userReward.save();
+
+    res.status(200).json({ message: 'Informations de contact mises à jour avec succès.', userReward });
+  } catch (error) {
+    logger.error(`Erreur lors de la mise à jour des informations de contact: ${error.message}`);
+    res.status(500).json({ message: 'Erreur lors de la mise à jour des informations de contact.', error });
+  }
+});
+
+// Route pour mettre à jour le champ isClaimed d'un UserReward
+router.put('/:userRewardID/claim', async (req, res) => {
+  try {
+    const { userRewardID } = req.params;
+    const { isClaimed } = req.body;
+
+    const userReward = await UserReward.findById(userRewardID);
+    if (!userReward) {
+      return res.status(404).json({ message: 'UserReward non trouvé' });
+    }
+
+    userReward.isClaimed = isClaimed;
+    await userReward.save();
+
+    res.status(200).json({ message: 'Statut isClaimed mis à jour avec succès', userReward });
+  } catch (error) {
+    console.error('Erreur lors de la mise à jour du statut isClaimed:', error);
+    res.status(500).json({ message: 'Erreur interne du serveur', error: error.message });
+  }
+});
+
+// Route pour valider un code de retrait
+router.get('/validate-code/:pickupCode', async (req, res) => {
+  try {
+    const { pickupCode } = req.params;
+    // afficher tous les userReward
+    const AllUserReward = await UserReward.find();
+    console.log(AllUserReward);
+    const userReward = await UserReward.findOne({ pickupCode }).populate('rewardID userID');
+    
+    if (!userReward) {
+      return res.status(404).json({ message: 'Code non trouvé' });
+    }
+    
+    res.status(200).json(userReward);
+  } catch (error) {
+    console.error('Erreur lors de la validation du code:', error);
+    res.status(500).json({ message: 'Erreur interne du serveur', error: error.message });
+  }
+});
 
 module.exports = router;

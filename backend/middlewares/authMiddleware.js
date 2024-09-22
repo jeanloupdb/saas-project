@@ -4,34 +4,36 @@ const logger = require('../logger');
 const authMiddleware = (req, res, next) => {
   const authHeader = req.header('Authorization');
 
-  if (!authHeader) {
-    logger.warn('Accès refusé. Aucun header Authorization fourni.');
-    return res.status(401).json({ message: 'Accès refusé. Aucun token fourni.' });
-  }
+  if (authHeader) {
+    // Si le header Authorization existe, vérifier le JWT
+    const token = authHeader.replace('Bearer ', '');
 
-  const token = authHeader.replace('Bearer ', '');
-
-  if (!token) {
-    logger.warn('Accès refusé. Aucun token trouvé dans le header.');
-    return res.status(401).json({ message: 'Accès refusé. Aucun token fourni.' });
-  }
-
-  try {
-    const verified = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = verified;
-    next();
-  } catch (error) {
-    logger.error('Erreur de vérification du token:', error);
-    res.status(400).json({ message: 'Token invalide.' });
+    try {
+      const verified = jwt.verify(token, process.env.JWT_SECRET);
+      req.user = verified; // Stocker l'utilisateur vérifié dans req.user
+      return next();
+    } catch (error) {
+      logger.error('Erreur de vérification du token:', error);
+      return res.status(400).json({ message: 'Token invalide.' });
+    }
+  } else if (req.session && req.session.userId) {
+    // Si la session existe et contient un userId, l'utiliser
+    req.user = { userId: req.session.userId }; // Stocker l'ID utilisateur de la session dans req.user
+    return next();
+  } else {
+    // Si aucun token ni session n'est trouvé
+    logger.warn('Accès refusé. Aucun token ou session fourni.');
+    return res.status(401).json({ message: 'Accès refusé. Aucun token ou session fourni.' });
   }
 };
 
+// Middleware pour vérifier le rôle de l'utilisateur
 const verifyRole = (roles) => (req, res, next) => {
-  if (roles.includes(req.user.role)) {
+  if (req.user && roles.includes(req.user.role)) {
     return next();
   }
-  logger.warn(`Accès refusé pour le rôle: ${req.user.role}`);
-  res.status(403).send('Accès refusé.');
+  logger.warn(`Accès refusé pour le rôle: ${req.user.role || 'inconnu'}`);
+  return res.status(403).send('Accès refusé.');
 };
 
 module.exports = {

@@ -8,6 +8,8 @@ const userRewardSchema = new mongoose.Schema({
   date: { type: Date, default: Date.now },
   pickupCode: { type: String }, // Code de retrait
   isClaimed: { type: Boolean, default: false }, // Statut de réclamation
+  address: { type: String }, // Nouveau champ pour l'adresse
+  phoneNumber: { type: String }, // Nouveau champ pour le numéro de téléphone
 });
 
 const UserReward = mongoose.model('UserReward', userRewardSchema);

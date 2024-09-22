@@ -4,37 +4,29 @@ const RewardController = require('../controllers/rewardController');
 const { processGame } = require('./GameService');
 const logger = require('../logger');
 const GameHistory = require('../models/GameHistory');
+require('dotenv').config();
 
-const playRouletteService = async (gameID, userID, numSegments, betNumber, companyID, rewardRarity) => {
+
+const playCoffresService = async (gameID, userID, numCoffres, selectedCoffreId, companyID, rewardRarity) => {
+  console.log("rarity: ", rewardRarity);
   const calculateResult = async () => {
-    // Déterminer le numéro gagnant
-    const winning_probability = parseFloat(process.env.WINNING_PROBABILITY_WHEEL);
-    const isWinningNumber = Math.random() < winning_probability;
-    let winningNumber = betNumber; // Utiliser le numéro choisi par l'utilisateur comme gagnant par défaut
-    if (!isWinningNumber) {
-      while (winningNumber === betNumber) {
-        winningNumber = Math.floor(Math.random() * numSegments) + 1;
-      }
-    }
-
-    // Calculer l'angle pour l'affichage de la roulette
-    const segmentAngle = 360 / numSegments;
-    const offset = segmentAngle / 2;
-    let winningAngle = (winningNumber - 1) * segmentAngle;
-    winningAngle += 5 * 360; // Ajouter des rotations complètes pour l'animation
-    winningAngle += offset;
-
-    // Déterminer si l'utilisateur gagne ou perd
-    const win = winningNumber === betNumber;
+    // Déterminer si le coffre sélectionné est gagnant avec une probabilité de 20% (par exemple)
+    const winning_probability = parseFloat(process.env.WINNING_PROBABILITY_CHEST);
+    const isWinningCoffre = Math.random() < winning_probability;
+    let winningCoffre = selectedCoffreId;
     let rewardID = null;
+    let win = false;
 
-    if (win) {
+    if (isWinningCoffre || numCoffres === 1) {
+      win = true;
+
       // Récupérer les récompenses disponibles pour l'entreprise en fonction de la "rarity"
       const rewards = await Reward.find({ 
         companyID, 
-        remainingQuantity: { $gt: 0 },
-        rarity: { $lte: rewardRarity }  // Filtrer par `rarity` selon la valeur passée
+        remainingQuantity: { $gt: 0 }, 
+        rarity: { $eq: rewardRarity }  // Filtrer par `rarity` selon la valeur passée
       });
+      console.log("rewards : ", rewards)
 
       if (rewards.length > 0) {
         // Sélectionner une récompense aléatoire parmi celles disponibles
@@ -47,13 +39,19 @@ const playRouletteService = async (gameID, userID, numSegments, betNumber, compa
           await RewardController.createUserReward(userID, reward._id, gameID, companyID);
           rewardID = reward._id;
         } else {
-          logger.warn("No reward was selected even though it was a winning bet.");
+          logger.warn("Aucune récompense n'a été sélectionnée même si l'utilisateur a gagné.");
         }
       } else {
-        logger.warn("No rewards available for this company or within the selected rarity.");
+        logger.warn("Pas de récompenses disponibles pour cette entreprise ou avec la rareté sélectionnée.");
+      }
+    } else {
+      // Si le coffre est perdant, choisir un autre coffre aléatoire comme le vrai gagnant
+      while (winningCoffre === selectedCoffreId){
+        winningCoffre = Math.floor(Math.random() * numCoffres) + 1;
       }
     }
-    return { win, rewardID, extraData: { winningNumber, winningAngle } };
+
+    return { win, rewardID, extraData: { selectedCoffreId, winningCoffre } };
   };
 
   const saveGameHistory = async (win, rewardID, extraData, entryCost) => {
@@ -65,13 +63,15 @@ const playRouletteService = async (gameID, userID, numSegments, betNumber, compa
       rewardID: win && rewardID ? rewardID : null,
       tokensSpent: entryCost,
       date: new Date(),
+      extraData, // Sauvegarder les coffres sélectionné et gagnant
     });
     await gameHistory.save();
     return gameHistory;
   };
+
   return processGame(gameID, userID, companyID, 10, calculateResult, saveGameHistory);
 };
 
 module.exports = {
-  playRouletteService,
+  playCoffresService,
 };

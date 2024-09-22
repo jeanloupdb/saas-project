@@ -7,50 +7,56 @@ const logger = require('../logger');
 
 const mongoose = require('mongoose');
 
-// Créer une action et un quiz associé
-exports.createActionWithQuiz = async (req, res) => {
+// Créer une action et gérer les types spécifiques (quiz, avis Google)
+exports.createAction = async (req, res) => {
   try {
     const actionData = req.body;
-
-    // Log initial des données reçues
+    console.log('actionData:', actionData);
 
     if (!actionData) {
-      throw new Error("Aucune donnée reçue dans le corps de la requête.");
+      return res.status(400).json({ message: "Aucune donnée reçue dans le corps de la requête." });
     }
 
-    let companyIDObject;
-    // Vérifiez si companyID est une chaîne hexadécimale de 24 caractères
-    if (mongoose.Types.ObjectId.isValid(actionData.companyID)) {
-      companyIDObject = new mongoose.Types.ObjectId(actionData.companyID);
-    } else {
-      throw new Error("Format de companyID invalide.");
+    // Vérification de l'ID de l'entreprise
+    if (!mongoose.Types.ObjectId.isValid(actionData.companyID)) {
+      return res.status(400).json({ message: "Format de companyID invalide." });
     }
 
-    // Préparation de l'objet actionData_
+    // Utiliser le mot-clé 'new' pour créer une nouvelle instance de ObjectId
+    const companyIDObject = new mongoose.Types.ObjectId(actionData.companyID);
+
+    // Création de l'objet action en fonction du type d'action
     const actionData_ = {
-      ...actionData,
-      companyID: companyIDObject
+      companyID: companyIDObject,
+      tokens_reward: actionData.tokens_reward,
+      type: actionData.type,
+      action_details: actionData.action_details,
     };
 
-    // Ajouter les champs quizQuestions et quizDescription si l'action est un quiz
+    // Ajouter les champs spécifiques pour le type "quiz"
     if (actionData_.type === 'quiz') {
       actionData_.quizQuestions = actionData.quizQuestions || [];
       actionData_.quizDescription = actionData.quizDescription || '';
     }
 
+    // Ajouter les champs spécifiques pour le type "google_review"
+    if (actionData_.type === 'google_review') {
+      actionData_.googleAuthId = actionData.googleAuthId || null;
+    }
 
     // Création de l'action
     const action = new Action(actionData_);
-
     await action.save();
 
+    console.log('Action créée avec succès:', action);
 
-    res.status(201).json({ message: 'Action et quiz créés avec succès.', action });
+    return res.status(201).json({ message: 'Action créée avec succès.', action });
   } catch (error) {
-    logger.error('Erreur lors de la création de l\'action:', error);
-    res.status(400).json({ message: 'Erreur lors de la création de l\'action.', error });
+    console.error('Erreur lors de la création de l\'action:', error);
+    return res.status(400).json({ message: 'Erreur lors de la création de l\'action.', error });
   }
 };
+
 
 // Fonction existante pour vérifier une action
 exports.verifyAction = async (req, res) => {

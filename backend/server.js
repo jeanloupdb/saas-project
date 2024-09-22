@@ -4,34 +4,44 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
+const session = require('express-session');
+const MongoStore = require('connect-mongo');
 const logger = require('./logger');
-
-const authRoutes = require('./routes/authRoutes');
-const userRoutes = require('./routes/userRoutes');
-const actionRoutes = require('./routes/actionRoutes');
-const tokenWalletRoutes = require('./routes/tokenWalletRoutes');
-const companyRoutes = require('./routes/companyRoutes');
-const quizRoutes = require('./routes/quizRoutes');
-const gameRoutes = require('./routes/gameRoutes');
-const rewardRoutes = require('./routes/rewardRoutes');
-const dataRoutes = require('./routes/dataRoutes'); // Utilisez le chemin approprié
-const statsRoutes = require('./routes/statsRoutes');
+const authGoogleRoutes = require('./routes/authGoogleRoutes');
+const cookieParser = require('cookie-parser');
 
 
-
+// Initialisation d'Express
 const app = express();
 
-// Middleware
-app.use(cors({
-  origin: 'http://localhost:3000',
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  credentials: true
+// Après avoir importé les autres modules
+app.use(cookieParser());
+
+app.use(session({
+  secret: process.env.SESSION_SECRET,
+  resave: true,
+  saveUninitialized: false,
+  store: MongoStore.create({ mongoUrl: process.env.MONGO_URI }),
+  cookie: {
+    secure: false, // Assurez-vous que ce soit false puisque vous êtes en HTTP
+    httpOnly: true,
+    maxAge: 24 * 60 * 60 * 1000, // 1 jour
+    sameSite: 'Strict', // 'Lax' est généralement suffisant pour les environnements HTTP, essayez 'None' si nécessaire
+  }
 }));
 
+
+
+// Configuration CORS
+app.use(cors({
+  origin: 'http://localhost:3000', // URL du frontend
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true // Permettre l'envoi de cookies
+}));
 app.use(express.json());
 app.use(helmet());
 
-// Content Security Policy
+// Content Security Policy (CSP)
 app.use(helmet.contentSecurityPolicy({
   directives: {
     defaultSrc: ["'self'"],
@@ -55,37 +65,31 @@ mongoose.connect(process.env.MONGO_URI, {
   .then(() => logger.info('MongoDB Connected'))
   .catch(err => logger.error(`MongoDB connection error: ${err.message}`));
 
-// Routes
-logger.info('Définition des routes');
-app.use('/api/auth', authRoutes);
-app.use('/api/users', userRoutes);
-app.use('/api/actions', actionRoutes);
-app.use('/api/token-wallets', tokenWalletRoutes);
-app.use('/api/companies', companyRoutes);
-app.use('/api/quiz', quizRoutes);
-app.use('/api/games', gameRoutes);
-app.use('/api/rewards', rewardRoutes);
-app.use('/api/data', dataRoutes); // Utilisez le chemin approprié
-app.use('/api/stats', statsRoutes);
-
-
-
-
 // Rate Limiting
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 100,
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 100, // Limite chaque IP à 100 requêtes par `window`
   message: 'Too many requests from this IP, please try again later.'
 });
-
 app.use(limiter);
 
-function errorHandler(err, req, res, next) {
-  logger.error(`Error: ${err.message}`);
-  res.status(500).json({ message: 'Server error', error: err.message });
-}
+// Routes
+logger.info('Définition des routes');
+app.use('/api/auth', require('./routes/authRoutes'));
+app.use('/api/users', require('./routes/userRoutes'));
+app.use('/api/actions', require('./routes/actionRoutes'));
+app.use('/api/token-wallets', require('./routes/tokenWalletRoutes'));
+app.use('/api/companies', require('./routes/companyRoutes'));
+app.use('/api/quiz', require('./routes/quizRoutes'));
+app.use('/api/games', require('./routes/gameRoutes'));
+app.use('/api/rewards', require('./routes/rewardRoutes'));
+app.use('/api/data', require('./routes/dataRoutes'));
+app.use('/api/stats', require('./routes/statsRoutes'));
+app.use('/api/auth-google', authGoogleRoutes);
+app.use('/api/google-places', require('./routes/googlePlacesRoutes'));
 
-app.use(errorHandler);
+
+
 
 // Lancement du serveur
 const PORT = process.env.PORT || 5000;

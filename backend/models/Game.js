@@ -1,13 +1,12 @@
-// Example Game Model
 const mongoose = require('mongoose');
 
 const gameSchema = new mongoose.Schema({
   name: { type: String, required: true },
-  description: { type: String },
+  description: { type: String, required: true },
   entryCost: { type: Number, required: true },
-  winChance: { type: Number, required: true }, // Probability as a percentage
-  rewards: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Reward' }],
-  global: { type: Boolean, default: true },
+  rarity: { type: String, required: true },
+  icon: { type: String, required: true },  // Chemin de l'icône du jeu
+  type: { type: String, required: true }  // Par exemple, "roulette", "coffres", etc.
 });
 
 const Game = mongoose.model('Game', gameSchema);

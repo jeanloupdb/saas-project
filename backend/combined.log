@@ -36477,3 +36477,1225 @@
 2024-08-21 12:12:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
 2024-08-21 12:13:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: false, RewardID: null
 2024-08-21 12:13:21 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: false, RewardID: null
+2024-08-21 14:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 14:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 14:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 14:06:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:06:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:25:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:25:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:25:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:25:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:37:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 14:37:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 14:37:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 14:51:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:51:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:52:07 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:52:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:52:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:52:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 14:52:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 15:09:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 15:09:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 15:09:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:09:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 15:14:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 15:14:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 15:14:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 16:07:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:07:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:09:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: true, RewardID: 66c5e7d18784a11e1e329166
+2024-08-21 16:09:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5e7d18784a11e1e329166'),
+  name: 'Bizon futé',
+  initialQuantity: 1000,
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  rarity: 10,
+  description: 'Biachi',
+  distributionDescription: "Votre lot vous attend! Rendez-vous dans notre agence avec votre QR code ou une pièce d'identité pour récupérer votre récompense.",
+  distributionMethod: 'send_by_mail',
+  createdAt: 2024-08-21T13:12:49.042Z,
+  remainingQuantity: 999,
+  __v: 0
+}
+2024-08-21 16:13:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: true, RewardID: 66c4bbe7f5deff7aa2907d8c
+2024-08-21 16:13:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c4bbe7f5deff7aa2907d8c'),
+  name: 'Le petit lot la',
+  initialQuantity: 1000,
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  rarity: 10,
+  description: 'yuyu',
+  distributionDescription: "Votre lot vous attend! Rendez-vous dans notre agence avec votre QR code ou une pièce d'identité pour récupérer votre récompense.",
+  distributionMethod: 'pickup_in_store',
+  createdAt: 2024-08-20T15:53:11.305Z,
+  remainingQuantity: 978,
+  __v: 0
+}
+2024-08-21 16:15:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: true, RewardID: 66c5e7d18784a11e1e329166
+2024-08-21 16:15:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5e7d18784a11e1e329166'),
+  name: 'Bizon futé',
+  initialQuantity: 1000,
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  rarity: 10,
+  description: 'Biachi',
+  distributionDescription: "Votre lot vous attend! Rendez-vous dans notre agence avec votre QR code ou une pièce d'identité pour récupérer votre récompense.",
+  distributionMethod: 'send_by_mail',
+  createdAt: 2024-08-21T13:12:49.042Z,
+  remainingQuantity: 998,
+  __v: 0
+}
+2024-08-21 16:17:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info:  Win: true, RewardID: 66c5e7d18784a11e1e329166
+2024-08-21 16:17:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5e7d18784a11e1e329166'),
+  name: 'Bizon futé',
+  initialQuantity: 1000,
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  rarity: 10,
+  description: 'Biachi',
+  distributionDescription: "Bonne nouvelle! Votre lot sera bientôt en route vers votre domicile. Vous recevrez un email avec les détails du suivi pour ne rien rater de l\\'arrivée de votre colis.",
+  distributionMethod: 'send_by_mail',
+  createdAt: 2024-08-21T13:12:49.042Z,
+  remainingQuantity: 997,
+  __v: 0
+}
+2024-08-21 16:36:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:43 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:37:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 16:38:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la mise à jour des informations de contact: Cast to ObjectId failed for value "undefined" (type string) at path "rewardID" for model "UserReward"
+2024-08-21 16:39:30 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la mise à jour des informations de contact: Cast to ObjectId failed for value "undefined" (type string) at path "rewardID" for model "UserReward"
+2024-08-21 16:40:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la mise à jour des informations de contact: Cast to ObjectId failed for value "undefined" (type string) at path "rewardID" for model "UserReward"
+2024-08-21 16:40:07 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la mise à jour des informations de contact: Cast to ObjectId failed for value "undefined" (type string) at path "rewardID" for model "UserReward"
+2024-08-21 16:40:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 16:40:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 16:40:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 16:41:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 16:41:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 16:41:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 16:42:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: null
+2024-08-21 16:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 16:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 16:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 16:44:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 16:44:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 16:44:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 16:44:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5f6681b890b529de702ed'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c5e7d18784a11e1e329166'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T14:15:04.227Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 16:52:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5f6681b890b529de702ed'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c5e7d18784a11e1e329166'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T14:15:04.227Z,
+  pickupCode: null,
+  isClaimed: true,
+  __v: 0,
+  address: 'ejkrnv;wejnrvjewnrv;',
+  phoneNumber: '1234567890'
+}
+2024-08-21 16:55:44 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 16:55:44 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 16:55:44 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 17:04:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c5f6f21b890b529de703e0'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c5e7d18784a11e1e329166'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T14:17:22.683Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:29:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:29:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:30:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 17:30:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 17:30:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 17:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:30:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 17:36:15 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 17:36:15 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 17:36:15 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 17:39:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 17:39:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 17:39:09 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 17:40:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-21 17:40:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-21 17:40:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-21 17:43:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c603bda3c87be7d9de8b05'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60354a3c87be7d9de8a36'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T15:11:57.245Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 17:55:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c603dda3c87be7d9de8b1c'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T15:12:29.496Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 18:00:07 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:01:18 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:02:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:03:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:03:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:03:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:03:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:05:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c6101c1d7414e24a702d93'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60354a3c87be7d9de8a36'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T16:04:44.010Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 18:05:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c6103e1d7414e24a702dac'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T16:05:18.243Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 18:08:30 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c610f21d7414e24a702dc3'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60354a3c87be7d9de8a36'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T16:08:18.163Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 18:47:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:47:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:47:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 18:47:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 19:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 19:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 21:25:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error submitting quiz: ValidationError: responses.2.response: Path `response` is required.
+2024-08-21 22:07:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 22:07:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 22:07:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 22:07:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:06:31 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:08:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la récupération des détails du lot: Cast to ObjectId failed for value "validate-code" (type string) at path "_id" for model "Reward"
+2024-08-21 23:36:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:36:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:36:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:36:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-21 23:40:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65e961d7414e24a703625'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:39:34.127Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 23:40:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65e961d7414e24a703625'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:39:34.127Z,
+  pickupCode: null,
+  isClaimed: true,
+  __v: 0,
+  address: '',
+  phoneNumber: '0768771073'
+}
+2024-08-21 23:40:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65e961d7414e24a703625'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:39:34.127Z,
+  pickupCode: null,
+  isClaimed: true,
+  __v: 0,
+  address: '',
+  phoneNumber: '0768771073'
+}
+2024-08-21 23:40:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65e961d7414e24a703625'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:39:34.127Z,
+  pickupCode: null,
+  isClaimed: true,
+  __v: 0,
+  address: '',
+  phoneNumber: '0768771073'
+}
+2024-08-21 23:40:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c611821d7414e24a702dda'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c603a7a3c87be7d9de8a7e'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T16:10:42.669Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 23:43:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65f5b1d7414e24a703657'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60354a3c87be7d9de8a36'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:42:51.553Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-21 23:44:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: {
+  _id: new ObjectId('66c65f941d7414e24a703692'),
+  userID: new ObjectId('667fd90ba3abeb419c2a4d80'),
+  rewardID: new ObjectId('66c60333a3c87be7d9de8a12'),
+  gameID: new ObjectId('66b5f715f3039a7dfa38cf57'),
+  companyID: new ObjectId('669e3e206d8987c105b8bca2'),
+  date: 2024-08-21T21:43:48.725Z,
+  pickupCode: null,
+  isClaimed: false,
+  __v: 0
+}
+2024-08-22 00:02:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:02:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:02:18 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:02:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:02:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:09:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la récupération des lots par rareté et entreprise: Cast to Number failed for value "NaN" (type number) at path "rarity" for model "Reward"
+2024-08-22 00:09:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la récupération des lots par rareté et entreprise: Cast to Number failed for value "NaN" (type number) at path "rarity" for model "Reward"
+2024-08-22 00:10:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la récupération des lots par rareté et entreprise: Cast to Number failed for value "NaN" (type number) at path "rarity" for model "Reward"
+2024-08-22 00:11:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la récupération des lots par rareté et entreprise: Cast to Number failed for value "NaN" (type number) at path "rarity" for model "Reward"
+2024-08-22 00:18:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:18:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:19:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:19:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:19:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:19:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:21:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:21:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:23:43 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:25:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:25:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:26:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:26:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:26:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:27:13 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:27:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:27:40 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:27:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:28:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:28:49 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:28:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:51:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 00:56:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:01:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:07:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:07:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:09:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:10:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 01:10:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:39:19 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 11:39:19 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 11:39:19 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 11:39:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:39:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:39:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 11:40:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:00:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 13:00:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 13:00:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 13:19:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la création de l'action: Action validation failed: type: `google_review` is not a valid enum value for path `type`.
+2024-08-22 13:19:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur lors de la création de l'action: Action validation failed: type: `google_review` is not a valid enum value for path `type`.
+2024-08-22 13:24:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 13:24:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 13:24:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 13:26:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 13:26:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 13:26:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 13:35:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 13:35:36 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 13:35:36 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 13:35:36 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:04:25 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:21:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:21:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:21:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:23:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 14:25:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:25:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:25:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:25:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: Cannot read properties of undefined (reading 'user')
+2024-08-22 14:25:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: Cannot read properties of undefined (reading 'user')
+2024-08-22 14:26:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:26:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:26:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:26:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: Cannot read properties of undefined (reading 'user')
+2024-08-22 14:26:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: Cannot read properties of undefined (reading 'user')
+2024-08-22 14:28:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:28:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:28:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:33:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:33:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:33:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:34:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:34:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:34:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:35:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:35:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:35:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:38:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:38:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:38:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:44:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:44:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:44:26 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 14:50:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 14:50:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 14:50:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 15:10:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:02:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:02:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:02:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:02:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:03:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 20:03:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 20:03:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 20:14:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 20:14:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 20:14:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 20:15:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-22 20:15:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-22 20:15:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 20:20:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:05 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:06 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-22 22:14:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:28:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 10:28:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 10:28:50 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 10:32:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 10:32:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 10:32:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 10:33:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 10:33:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 10:33:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 10:47:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 10:47:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 10:47:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:47:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 10:51:21 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 10:51:21 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 10:51:21 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:04:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:04:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:04:08 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:04:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:05:30 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:05:30 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:05:30 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:05:36 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:05:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:07:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:07:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:07:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:07:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:08:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:08:04 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:08:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:08:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:08:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:08:44 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Error: oauth2Client is not defined
+2024-08-23 11:10:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:10:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:10:11 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:11:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:11:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:11:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:13:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:13:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:13:37 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:14:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:14:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:14:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:17:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:17:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:17:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:44:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-23 11:44:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-23 11:44:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-23 11:44:12 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 17:53:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 17:53:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 17:53:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:01:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:01:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:01:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:07:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:07:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:07:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:16:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:16:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:16:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:55 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:16:56 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:18:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:18:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:18:53 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:23:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:23:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:23:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:56:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 18:56:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 18:56:58 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 18:57:03 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:00:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 19:00:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 19:00:42 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 19:04:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 19:04:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 19:04:57 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 19:07:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 19:07:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 19:07:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 19:16:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:47 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:16:48 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 19:18:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 19:18:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 19:18:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 19:20:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 19:20:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 19:20:10 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:01:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:01:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:01:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:07:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:07:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:07:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:10:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:10:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:10:20 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:12:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:12:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:12:39 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:20:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:20:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:20:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:22:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:22:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:22:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:22:46 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:25:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:25:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:25:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:34:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:34:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:34:02 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:35:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:35:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:35:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:39:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:39:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:39:28 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:41:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:41:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:41:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:43:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:43:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:43:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: GOYhpqbQrbxrCPCXRCh-VjyH0KSNgEIV
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 6UQAyBkuUxkfE-c0gBn3zWB2bTsIEQlm
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: CaL9GjJJvqz8OJ5xSEUUPS8yu8gFmUav
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: lxF8iOTiQLKcV8Iq-5w6UaBOgt7euWFA
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: S07NwZZ3yY6cCwMkJTg0Tj6l9m-GMbNh
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: D1N7upVi8tNSU3JKwLLj91cGayM3-Am5
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: LZYyvlNhZQxOfwpfDJCPsLB7z1DuLLlQ
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: dlWwWgcLL-iT2yZFRVwkLKhAWFRGzvCO
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: c_4sPHYdmFmGUBEmKkVrnG37NZ82WG9W
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 3LStv0F4LsBkCM55Wc6l8m69HB5b5jqm
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: fihkwfb3ZHErDfJe4IhP_p-0VdwuLq_C
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: L9pV9HyyhCfseiMalWlgDSUn5g0Q7qUf
+2024-08-24 20:43:38 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:46:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:46:41 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: nKMQgaXnmbbmgGCaKWpSeSwTW6uP2r8S
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: JhxIWfvbKbg03X2p3chviTK7YwJ_qKU-
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: oZHonUc_Wj68tttLYjZ98obWCTe1sEBC
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: GF-dIKcbduuW0RrQIqATm8GwWn4RDyvL
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: ZLK19NURjEQNzjAThcThIOImiXwVwGgt
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: OIEslRzt0jp3ZUUbLXP1pTv7ntcd9NPM
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: J4om-Ty_Mnr2v38Xup6cNVhfs8HBOfdu
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: AudmpZQqWx0NIOCZ6Lmuhpwp68yfHMGD
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 7G7kbEMJzPDIGLvn-ZGiMG52UDbH3G9S
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: XBH7hxEEbG14BNrng9xOW4JXMY1mo-ET
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: BoReLNJ6tvMyLI1-7DCKAwq5tFS6CxKF
+2024-08-24 20:46:45 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: X9X_2nuoe9gfdKu-eqStkzBBmjI1dPPA
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: u8I_D6yVBXmAeCv-to-DJMGvSTr79UY-
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: qTrzm0xh6Kt7wGPjXfgUalAy896yiD4l
+2024-08-24 20:46:51 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 7VYJTWuuRVUdX4_G-sgO1Ebrz_ildqAK
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: w1THPTKjTFTobK4yeGpj8yAzPtn4hfpK
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: xh3vZv-_jv2PCs1F7svJdGl1mdLrB-A7
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: BGQN6YWaghcTY3Am8wGbmpBo5t35q-Dh
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: NVT4PNV1t6goNwOYz1qBlj9UMrOEUgsm
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 7QInJdukrfUeDOOn3RL7Dfj-PZhgH5Oi
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: d6O9_8uqdcKjCJt0Lu60c2RhUw570E_D
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: ikxgBPIoLMyInLb6COhLx1m9MaMs3dnW
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: zQFUpICNVLepbzhEN-uip08S2teyZ7cp
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: rK0XoYnlAn8c5VHTrk88uwvCZ23GTUX7
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: OGIyviN8XNQ-CyY0Nvp5GuzNKfjlh2Hp
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: i6PvlBF1kcvbDgXeG2GpJvMMUgEoy4BN
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: UeHHLKT_V886GeWy_8t2SR7Tn0sMwpUa
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: _6WD90ItyzwrL4mp5juw0arODz9Tfn5l
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: a5vSM7hr_EBCl0zbLTVLKPj4Mu1STkdr
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: G9fE4vNetmOYE04liR9us3-qqW9rUiUT
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: Ni3fYMHwtKE4GGvVahkh8V-b1pQAofk_
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 7sMFzv1wE8oyq73fTFuo7lTqshfH9iXX
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: sEvaz0qnUIpb_g94Pa-mT3k58uEsb_PT
+2024-08-24 20:46:52 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: R-vs0DNOZWuMPgo2sEbIzNGbT_H2-GMn
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 5UZVFu1iyAUFj8nk6Ys6Em4TtEUBYm87
+2024-08-24 20:46:54 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:46:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:46:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:46:59 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: vxTx8wnHeVDnWWzoMheMquMWfkDhsAwE
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: -bP8BB9pPJ0i-kGU3gCzLPzNxX7nLOwL
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: JG7B4K_7Ii0FBSvuWe1uClKh8fea64qu
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: EhhlC_52myGMvOCHKlR-NRAgrYxkiq9w
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: wCAJnxNu-MkVjPLXOal9re28r-uNpx2J
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: xjPvL868OKFegZu4DdMgILRQxbe22drf
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: eG5s_ix7H8gcMguceiu6QJ2nEFMXhQXs
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: aei9DpbU1NVGCp5C8uqVUrEXa5fJKmVP
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: q_wW7hN0LIuraLndpvYRZDAKwj3jWDmJ
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: rpdbJZ9bg-IQhZ0Oat-V1S0vny6hYikB
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: cbdcwMZqKTtgVx_Fe7UNjbb80OVdwHI_
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: XFm4x-7k9yACuvlsJAHjqqhIGxiBBzTk
+2024-08-24 20:47:00 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:17 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Définition des routes
+2024-08-24 20:55:18 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Server running on port 5000
+2024-08-24 20:55:18 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: MongoDB Connected
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: YmzCXJwHtd0C0BwXZOD-72esMGho9oa1
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: uqDNf_TfLTX7V2rUNspSMCnY8rbiTweI
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: IF0kaoByQJhF5l-VgF2jQbqAhSpIqfNP
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 37Zry_G7yNQO97ovVKAztAnK_Q-CWQZG
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: aTW4yheVX9sOzljmkkpVyLMSBwTBfC1T
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: daKugPr4YoJvWu03d8Luor4xcY7sRYHS
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: UHyErCn-Y9U50GSWltnlRCUHRfkOl9L1
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: QcARjJ-2xM100NriTIdJYHO-8Z6yB7To
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: LCdJTYJHI7wS_6yYi8DEi9GNHsYhmLYm
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: WkAc1l8EgEa7cvGxssa2VP9fZdBThOXF
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: vecgun9OYre4Nre6JSWtrWbmBvqY3pHZ
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: r8mVf6nXSarvx2v-VogRYRW52pL8R7BG
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: VUacajlD09SNCpUWpJCvPhbKaQlldRvs
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:22 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: OT4ecdHQZLOp8ybF5HIbNW5ftu7XvBo6
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 1YV4qguIju8r9Jp8ZxDxTp6JSVZyliIT
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: wuSzHqdwStxwMxCDVO4E33xC0rpKigOZ
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 3V05z1qM_36NrXlyDa8edmbA0Igf9v-I
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:23 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] error: Erreur de vérification du token: jwt expired
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: My3oNssFgnSWt72SpRX2joo4iU88hPcD
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 8rdUYkHy7ZyRE-fNQixIcwsLmMKjmin8
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: WPm_79scQMxjRG98Iv7Z2ZXZ_SDv1eAf
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: Xt5mtHt1arWudATf4KAfbCogKEnkpRQD
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: fMsGBdAavCuSo5C94_2EDBL-FE5DaFjl
+2024-08-24 20:55:32 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: unop19W6OuBWfdDNw5X6AXvrX5lqqkkF
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: aJe9J3wNHCuAX47zTL7TnZuHjQRPPEJH
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: RYcA-WDYHcsRN8apQy2qL3SCs5YZ3iSo
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 6x4-QclvdPxgy69ENScLHHiUbQCM4NqN
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: lwcaDKNvZXcQXZPouiHxO2K3j1jPa_lS
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: XQCXi_2x8Nh-Ckm6Fhy8NRUPvNLPF8WS
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: FAu7_RgAh2JWHGMT76zM_F5f3z6iQ9GN
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: XbaCfdKbE-hB44vccH2GHHTTp5Eu7upQ
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:33 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: UEZf1Bp9bI7hTWIzHseGqS5U41XEXqkP
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:34 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 20:55:35 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: loWiwKtW256sYRKgSemhR5qvNnjK9GBT
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 8kSmXM7TccZRUQKbYVIYwN4kpgZ421-n
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: VZSm-iuE6hJuZA5SEB8rMXsB_A58pBEO
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: Uv6IJ-miLBdR3tEKVAzuMnsN8l4gl8hi
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: FugWyEdMRehUHydDurzFmZQVfdBss_1A
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: kiv9lw0QVelik9a8kS43xDMgWYiP9tBW
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: zDFuYkla7e_D-cZ5IZg9t4tk5iqxvP01
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:01 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: xqb8EszOPhL8wUa64Gnua1eOZHdKOTOC
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: BdLpKY5kQeT6f3X8yNFUzuJb64aBdVQm
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:16 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:17 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:17 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:17 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: tPFslVYlHtUWHzkQwXDyYVfjYe0KWBux
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 1YsGSGFbyp5nReE2smnvBfaUBja1mM8u
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: iewDmV7xeB-sAejRBiQW0EHWl8fbE9sA
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: mcMiZ_yFQ1LkwFag8GC9ZNnwZ-QX_0pr
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: DkepEqIfNaaxHgc1z3XCV8XJP-wZ5wlw
+2024-08-24 21:56:27 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: VCIhkbn6fyP26Kn-AHr0YyYEVrPEwaHB
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: 0_pCUsgk1p-LdTVa2blaDHGN1aoREmJJ
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: AHoDnD4_xtm_HipgWY7_90zQ8AZZUZjV
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: nOpbvVj6wmzxUo8b_Y-cX4EPX6RaBIHt
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: S52zOJBKsSb5z6JttbnIxDvcFVEvsoIs
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: O7dqS570gYIV2gtTnFUlRihs4V6n7_nc
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: HKpSymhl2fLl5OTmj6YOjywn9vAroG2m
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: New request
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session ID: debAw9s_C_dxGpXgQqqsPp25fxLJn4S1
+2024-08-24 21:56:29 [/home/jlal/jlal_linux/sites_alexis/saas-project/backend/node_modules/logform/printf.js] info: Session Data: [object Object]

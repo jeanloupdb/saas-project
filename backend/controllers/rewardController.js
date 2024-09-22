@@ -13,7 +13,11 @@ const createUserReward = async (userID, rewardID, gameID, companyID) => {
 
     let pickupCode = null;
     if (reward.distributionMethod === 'pickup_in_store') {
-      pickupCode = generatePickupCode();
+        let codeExists;
+        do {
+            pickupCode = generatePickupCode();
+            codeExists = await UserReward.exists({ pickupCode });
+        } while (codeExists);
     }
 
     const userReward = new UserReward({
